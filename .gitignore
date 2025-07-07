@@ -17,10 +17,7 @@ env/
 logs/
 *.log
 
-# Model weights and large files (optional, exclude if needed)
-models/
-trained_model/
-tokenizer/
+
 
 # Temporary files
 *.bak
